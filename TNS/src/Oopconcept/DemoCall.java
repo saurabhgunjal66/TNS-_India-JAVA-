@@ -1,5 +1,5 @@
 package Oopconcept;
-
+//encapsulations
 public class DemoCall {
 	public static void main(String[] args) {
 		OopDemo o=new OopDemo();
