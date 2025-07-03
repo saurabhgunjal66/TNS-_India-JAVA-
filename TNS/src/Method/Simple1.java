@@ -8,5 +8,6 @@ public class Simple1 {
 		this.b=b;
 		int c=a+b;
 		System.out.println("addition:"+c);
+		System.out.println("addition:"+c);
 	}
 }
