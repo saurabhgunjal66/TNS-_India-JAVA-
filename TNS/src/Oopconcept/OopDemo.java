@@ -8,7 +8,7 @@ public class OopDemo {
 		this.Num=i;
 		this.name=name;
 		this.age=age;
-		//System.out.println(this.Num);
+		System.out.println(this.Num);
 		
 	}
 	
