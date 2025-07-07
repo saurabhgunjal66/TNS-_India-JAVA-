@@ -2,7 +2,9 @@ package Oopconcept;
 
 public class ConstructorCall {
 	public static void main(String[] args) {
-		Constructor c=new Constructor();
-		Constructor c1=new Constructor(1,2);
+		Constructor s=new Constructor();
+		Constructor s1=new Constructor(5,2);
+		s1.setA(10);
+		s1.setB(20);
 	}
 }
