@@ -7,15 +7,15 @@ public class Demo {
 	public int varpublic=40;
 	
 	private void methodPrivate() {
-		
+		System.out.println("private");
 	}
 	protected void mrethodprotected() {
-		
+		System.out.println("protected");
 	}
 	public void methodpublic() {
-		
+		System.out.println("public");
 	}
 	void methoddefault() {
-		
+		System.out.println("default");
 	}
 }
